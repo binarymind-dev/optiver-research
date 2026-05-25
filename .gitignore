@@ -1,0 +1,10 @@
+data/
+optiver-trading-at-the-close.zip
+models/
+__pycache__/
+*.pyc
+*.pkl
+venv/
+frontend/node_modules/
+frontend/build/
+.vscode/
