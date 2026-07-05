@@ -66,4 +66,4 @@ npm start
 
 ## 👩‍💻 Author
 
-**Snehal Thombare** — [GitHub](https://github.com/snehal-thombare08)
+Binary Mind — [GitHub](https://github.com/binarymind-dev)
