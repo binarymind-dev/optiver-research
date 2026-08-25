@@ -24,7 +24,6 @@
 - 🎯 **Validation MAE: 5.1552**
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
